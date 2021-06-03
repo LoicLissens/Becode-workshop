@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "./static/css/main.def4dcf6.chunk.css",
+    "main.js": "./static/js/main.bd563de4.chunk.js",
+    "main.js.map": "./static/js/main.bd563de4.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.6b990e91.js",
+    "runtime-main.js.map": "./static/js/runtime-main.6b990e91.js.map",
+    "static/js/2.01bcb573.chunk.js": "./static/js/2.01bcb573.chunk.js",
+    "static/js/2.01bcb573.chunk.js.map": "./static/js/2.01bcb573.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.33e64209d266ef4674446ab9d9849f4c.js": "./precache-manifest.33e64209d266ef4674446ab9d9849f4c.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.def4dcf6.chunk.css.map": "./static/css/main.def4dcf6.chunk.css.map",
+    "static/js/2.01bcb573.chunk.js.LICENSE.txt": "./static/js/2.01bcb573.chunk.js.LICENSE.txt",
+    "static/media/click1.wav": "./static/media/click1.cd76df3c.wav",
+    "static/media/click2.wav": "./static/media/click2.3bc269da.wav",
+    "static/media/love.svg": "./static/media/love.dc6b8551.svg",
+    "static/media/metronome.svg": "./static/media/metronome.d2d941c7.svg",
+    "static/media/play.png": "./static/media/play.1f3fc6a6.png",
+    "static/media/systeme.svg": "./static/media/systeme.7e8231f6.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b990e91.js",
+    "static/js/2.01bcb573.chunk.js",
+    "static/css/main.def4dcf6.chunk.css",
+    "static/js/main.bd563de4.chunk.js"
+  ]
+}

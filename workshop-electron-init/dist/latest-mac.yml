@@ -1,0 +1,8 @@
+version: 0.1.0
+files:
+  - url: myApp-0.1.0.dmg
+    sha512: GX3BZTaZDjBC415nlBdEc5LcYFWUYmKhzjJL1vThAdOdZNxk/UxN7ogV4uodO9CAXCH5sCA3xn6PtX483wJCKA==
+    size: 95335873
+path: myApp-0.1.0.dmg
+sha512: GX3BZTaZDjBC415nlBdEc5LcYFWUYmKhzjJL1vThAdOdZNxk/UxN7ogV4uodO9CAXCH5sCA3xn6PtX483wJCKA==
+releaseDate: '2020-03-09T15:18:09.053Z'
